@@ -1,0 +1,85 @@
+﻿pair,temperature,time(h.),cell-type,Instrument,SRA Study,data,supplement,ikra
+SRR2068908,39,1,Splenic B220+ cells,Illumina HiSeq 2000,SRP059622,mouse_A_SE,RNA-seq,complete
+SRR2068909,39,1,Splenic B220+ cells,Illumina HiSeq 2000,SRP059622,mouse_A_SE,RNA-seq,complete
+SRR2068912,39,1,Splenic B220+ cells,Illumina HiSeq 2000,SRP059622,mouse_A_SE,RNA-seq,complete
+SRR2068913,39,1,Splenic B220+ cells,Illumina HiSeq 2000,SRP059622,mouse_A_SE,RNA-seq,complete
+SRR8494667,42,0.5,mESC,Illumina HiSeq 2500,SRP182641,mouse_A_SE,RNA-seq,complete
+SRR8494669,42,0.5,mESC,Illumina HiSeq 2500,SRP182641,mouse_A_SE,RNA-seq,complete
+SRR8494671,42,0.5,mESC,Illumina HiSeq 2500,SRP182641,mouse_A_SE,RNA-seq,complete
+SRR8494673,42,0.5,mESC,Illumina HiSeq 2500,SRP182641,mouse_A_SE,RNA-seq,complete
+SRR8494675,42,0.5,mESC,Illumina HiSeq 2500,SRP182641,mouse_A_SE,RNA-seq,complete
+SRR8494677,42,0.5,mESC,Illumina HiSeq 2500,SRP182641,mouse_A_SE,RNA-seq,complete
+SRR8494679,42,0.5,mESC,Illumina HiSeq 2500,SRP182641,mouse_A_SE,RNA-seq,complete
+SRR8494681,42,0.5,mESC,Illumina HiSeq 2500,SRP182641,mouse_A_SE,RNA-seq,complete
+SRR8494691,42,0.5,mESC,Illumina HiSeq 2500,SRP182641,mouse_A_SE,RNA-seq,complete
+SRR8494693,42,0.5,mESC,Illumina HiSeq 2500,SRP182641,mouse_A_SE,RNA-seq,complete
+SRR8494695,42,0.5,mESC,Illumina HiSeq 2500,SRP182641,mouse_A_SE,RNA-seq,complete
+SRR8494697,42,0.5,mESC,Illumina HiSeq 2500,SRP182641,mouse_A_SE,RNA-seq,complete
+SRR8494699,42,0.5,mESC,Illumina HiSeq 2500,SRP182641,mouse_A_SE,RNA-seq,complete
+SRR8494701,42,0.5,mESC,Illumina HiSeq 2500,SRP182641,mouse_A_SE,RNA-seq,complete
+SRR8494703,42,0.5,mESC,Illumina HiSeq 2500,SRP182641,mouse_A_SE,RNA-seq,complete
+SRR8494705,42,0.5,mESC,Illumina HiSeq 2500,SRP182641,mouse_A_SE,RNA-seq,complete
+SRR6439785,42,1,MEF,Illumina HiSeq 2500,SRP128029,mouse_A_SE,RNA-seq,complete
+SRR6439787,42,1,MEF,Illumina HiSeq 2500,SRP128029,mouse_A_SE,RNA-seq,complete
+SRR6439788,42,1,mESC,Illumina HiSeq 2500,SRP128029,mouse_A_SE,RNA-seq,complete
+SRR6439791,42,1,mESC,Illumina HiSeq 2500,SRP128029,mouse_A_SE,RNA-seq,complete
+SRR5076803,43,0.75,NIH3T3,Illumina HiSeq 2500,SRP094555,mouse_A_SE,RNA-seq,complete
+SRR5076804,43,0.75,NIH3T3,Illumina HiSeq 2500,SRP094555,mouse_A_SE,RNA-seq,complete
+SRR5076805,43,0.75,NIH3T3,Illumina HiSeq 2500,SRP094555,mouse_B_SE,RNA-seq,complete
+SRR5076806,43,0.75,NIH3T3,Illumina HiSeq 2500,SRP094555,mouse_B_SE,RNA-seq,complete
+SRR5098222,42,1,129xC57Bl6 hybrid line,Illumina HiSeq 2500,SRP094937,mouse_B_SE,RNA-seq,complete
+SRR5098223,42,1,129xC57Bl6 hybrid line,Illumina HiSeq 2500,SRP094937,mouse_B_SE,RNA-seq,complete
+SRR5098224,42,1,129xC57Bl6 hybrid line,Illumina HiSeq 2500,SRP094937,mouse_B_SE,RNA-seq,complete
+SRR5098228,42,1,129xC57Bl6 hybrid line,Illumina HiSeq 2500,SRP094937,mouse_B_SE,RNA-seq,complete
+SRR5098229,42,1,129xC57Bl6 hybrid line,Illumina HiSeq 2500,SRP094937,mouse_B_SE,RNA-seq,complete
+SRR5098230,42,1,129xC57Bl6 hybrid line,Illumina HiSeq 2500,SRP094937,mouse_B_SE,RNA-seq,complete
+SRR1787569,42,0.75,NIH3T3,Illumina HiSeq 2000,SRP053191,mouse_B_SE,RNA-seq,complete
+SRR1787570,42,0.75,NIH3T3,Illumina HiSeq 2000,SRP053191,mouse_B_SE,RNA-seq,complete
+SRR1787571,42,0.75,NIH3T3,Illumina HiSeq 2000,SRP053191,mouse_B_SE,RNA-seq,complete
+SRR1787572,42,2.25,NIH3T3,Illumina HiSeq 2000,SRP053191,mouse_B_SE,RNA-seq,complete
+SRR1787573,42,2.25,NIH3T3,Illumina HiSeq 2000,SRP053191,mouse_B_SE,RNA-seq,complete
+SRR1787574,42,2.25,NIH3T3,Illumina HiSeq 2000,SRP053191,mouse_B_SE,RNA-seq,complete
+SRR17610122,38,12,Raw264.7.,Illumina HiSeq 4000,SRP354965,mouse_A_PE,RNA-seq,complete
+SRR17610123,38,12,Raw264.7.,Illumina HiSeq 4000,SRP354965,mouse_A_PE,RNA-seq,complete
+SRR17610124,38,12,Raw264.7.,Illumina HiSeq 4000,SRP354965,mouse_A_PE,RNA-seq,complete
+SRR17610122,38,12,Raw264.7.,Illumina HiSeq 4000,SRP354965,mouse_A_PE,RNA-seq,complete
+SRR17610123,38,12,Raw264.7.,Illumina HiSeq 4000,SRP354965,mouse_A_PE,RNA-seq,complete
+SRR17610124,38,12,Raw264.7.,Illumina HiSeq 4000,SRP354965,mouse_A_PE,RNA-seq,complete
+SRR14119173,39,24,CD8 T cell,Illumina HiSeq 3000,SRP312911,mouse_A_PE,RNA-seq,complete
+SRR14119174,39,24,CD8 T cell,Illumina HiSeq 3000,SRP312911,mouse_A_PE,RNA-seq,complete
+SRR14119175,39,24,CD8 T cell,Illumina HiSeq 3000,SRP312911,mouse_A_PE,RNA-seq,complete
+SRR13125320,42,0.3,Mouse embryonic fibroblasts,NextSeq 500,SRP293870,mouse_A_PE,RNA-seq,complete
+SRR13125321,42,0.3,Mouse embryonic fibroblasts,NextSeq 500,SRP293870,mouse_A_PE,RNA-seq,complete
+SRR13125322,42,0.3,Mouse embryonic fibroblasts,NextSeq 500,SRP293870,mouse_A_PE,RNA-seq,complete
+SRR13125326,42,0.3,Mouse embryonic fibroblasts,NextSeq 500,SRP293870,mouse_A_PE,RNA-seq,complete
+SRR13125327,42,0.3,Mouse embryonic fibroblasts,NextSeq 500,SRP293870,mouse_A_PE,RNA-seq,complete
+SRR13125328,42,0.3,Mouse embryonic fibroblasts,NextSeq 500,SRP293870,mouse_A_PE,RNA-seq,complete
+SRR9601002,45,1,B16-OVA(mouse melanoma cell),Illumina NovaSeq 6000,SRP212072,mouse_A_PE,RNA-seq,complete
+SRR9601003,45,1,B16-OVA(mouse melanoma cell),Illumina NovaSeq 6000,SRP212072,mouse_A_PE,RNA-seq,complete
+SRR9601008,45,1,B16-OVA(mouse melanoma cell),Illumina NovaSeq 6000,SRP212072,mouse_A_PE,RNA-seq,complete
+SRR9601009,45,1,B16-OVA(mouse melanoma cell),Illumina NovaSeq 6000,SRP212072,mouse_A_PE,RNA-seq,complete
+SRR9601010,45,1,B16-OVA(mouse melanoma cell),Illumina NovaSeq 6000,SRP212072,mouse_A_PE,RNA-seq,complete
+SRR12044994,39,3,Mouse splenic CD4+ T cells,Illumina NovaSeq 6000,SRP267841,mouse_A_PE,RNA-seq,complete
+SRR12044995,39,3,Mouse splenic CD4+ T cells,Illumina NovaSeq 6000,SRP267841,mouse_A_PE,RNA-seq,complete
+SRR12044996,39,3,Mouse splenic CD4+ T cells,Illumina NovaSeq 6000,SRP267841,mouse_A_PE,RNA-seq,complete
+SRR10363952,43,0.5,Cultured utricles,Illumina HiSeq 1500,SRP227469,mouse_A_PE,RNA-seq,complete
+SRR10363953,43,0.5,Cultured utricles,Illumina HiSeq 1500,SRP227469,mouse_A_PE,RNA-seq,complete
+SRR10363954,43,0.5,Cultured utricles,Illumina HiSeq 1500,SRP227469,mouse_A_PE,RNA-seq,complete
+SRR10363955,43,0.5,Cultured utricles,Illumina HiSeq 1500,SRP227469,mouse_A_PE,RNA-seq,complete
+SRR10363956,43,0.5,Cultured utricles,Illumina HiSeq 1500,SRP227469,mouse_A_PE,RNA-seq,complete
+SRR10363961,43,0.5,Cultured utricles,Illumina HiSeq 1500,SRP227469,mouse_A_PE,RNA-seq,complete
+SRR10363962,43,0.5,Cultured utricles,Illumina HiSeq 1500,SRP227469,mouse_A_PE,RNA-seq,complete
+SRR10363963,43,0.5,Cultured utricles,Illumina HiSeq 1500,SRP227469,mouse_A_PE,RNA-seq,complete
+SRR10363964,43,0.5,Cultured utricles,Illumina HiSeq 1500,SRP227469,mouse_A_PE,RNA-seq,complete
+SRR10363972,43,0.5,Cultured utricles,Illumina HiSeq 1500,SRP227469,mouse_A_PE,RNA-seq,complete
+SRR10363973,43,0.5,Cultured utricles,Illumina HiSeq 1500,SRP227469,mouse_A_PE,RNA-seq,complete
+SRR10363974,43,0.5,Cultured utricles,Illumina HiSeq 1500,SRP227469,mouse_A_PE,RNA-seq,complete
+SRR10363975,43,0.5,Cultured utricles,Illumina HiSeq 1500,SRP227469,mouse_A_PE,RNA-seq,complete
+SRR10363976,43,0.5,Cultured utricles,Illumina HiSeq 1500,SRP227469,mouse_A_PE,RNA-seq,complete
+SRR10363977,43,0.5,Cultured utricles,Illumina HiSeq 1500,SRP227469,mouse_A_PE,RNA-seq,complete
+SRR10363978,43,0.5,Cultured utricles,Illumina HiSeq 1500,SRP227469,mouse_A_PE,RNA-seq,complete
+SRR10363979,43,0.5,Cultured utricles,Illumina HiSeq 1500,SRP227469,mouse_A_PE,RNA-seq,complete
+SRR5558715,44,2,MEF,Illumina HiSeq 2000,SRP107191,mouse_A_PE,RNA-seq,complete
+SRR5558716,44,2,MEF,Illumina HiSeq 2000,SRP107191,mouse_A_PE,RNA-seq,complete
+SRR649750,42,8,NIH/3T3 ,Illumina Genome Analyzer II,SRP017942,mouse_A_PE,RNA-seq,complete
+SRR649751,44,2,NIH/3T3 ,Illumina Genome Analyzer II,SRP017942,mouse_A_PE,RNA-seq,complete
