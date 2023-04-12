@@ -1,4 +1,4 @@
 ﻿sample,WI-38,MCF7,OCI-Ly1,HEK293,U2OS,DLD-1,HeLa,CNE2,FaDu,SAS,Primary neurons,cortical brain organoids,MM.1S,neuronal aggregates,K562,SW620,MRC5-VA,Raji,human foreskin fibroblasts,HEPG2,HCT116,B16-PVA,B220+,CD4+T,CD8+T,MEFs,mESC,NIH/3T3,RAW264.7,Th17,Cortex,Cultured utricles,Fetal jejunum,Fetal duodenum,Hypothalamus,Kidney,Mammary gland,Placenta,Pituitary,Quadriceps femoris muscle,Testicular PTM,Testis,Vestibular system tissue
-Human cell type,11,5,6,39,36,24,17,3,6,6,18,6,3,2,45,12,55,4,16,2,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Mouse cell type,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,4,3,3,52,40,18,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0
-Mouse tissue type,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,17,3,3,8,23,8,3,8,6,12,15,4
+human,11,5,6,39,36,24,17,3,6,6,18,6,3,2,45,12,55,4,16,2,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+mouse (cell),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,4,3,3,52,40,18,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+mouse (tissue),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,17,3,3,8,23,8,3,8,6,12,15,4
