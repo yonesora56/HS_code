@@ -3,7 +3,7 @@
 
 ## bar-graph_dataset
 
-1. HS_sample.ipynb (for stacked bar graph in each sample)
+1. HS_sample.ipynb (for sample stacked bar graph )
 2. HS_temperature.ipynb (for temperature bar graph)
 3. HS_treatment.ipynb (for treatment bar graph)
 
