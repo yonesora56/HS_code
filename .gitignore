@@ -1,4 +1,5 @@
 ./ipynb_checkpoints/
-./stacked_bar_graph/HN-ratio_human_All.csv
-./stacked_bar_graph/HN-ratio_mouse_All.csv
-.DS_store
+.DS_Store
+./scatter-plot_HNscore/.DS_Store
+./stacked_bar_graph/.DS_Store
+
