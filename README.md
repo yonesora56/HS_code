@@ -25,3 +25,9 @@
 1. HNscore_HN5_samole_type_human.ipynb
 2. HNscore_HN5_samole_type_mouse.ipynb
 3. stacked_bar_HNscore_sample.ipynb
+
+&nbsp;
+
+## Reference
+
+1. https://doi.org/10.1101/2023.04.30.537112
