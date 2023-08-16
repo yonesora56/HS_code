@@ -1,7 +1,8 @@
 # HS_code
 
+&nbsp;
 
-## bar-graph_dataset
+## [1_bar-graph_dataset](./1_bar-graph_dataset/)
 
 1. HS_sample.ipynb (for sample stacked bar graph )
 2. HS_temperature.ipynb (for temperature bar graph)
@@ -9,7 +10,7 @@
 
 &nbsp;
 
-## scatter-plot_HNscore
+## [2_scatter-plot_HN-score](./2_scatter-plot_dataset/)
 
 1. scatter_plot_HNscore_human.ipynb 
 2. scatter_plot_HNscore_mouse.ipynb 
@@ -20,7 +21,7 @@
 
 &nbsp;
 
-## stacked_bar_graph
+## [3_stacked_bar_graph](./3_stacked_bar_graph/)
 
 1. HNscore_HN5_samole_type_human.ipynb
 2. HNscore_HN5_samole_type_mouse.ipynb
