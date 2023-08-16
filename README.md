@@ -10,7 +10,7 @@
 
 &nbsp;
 
-## [2_scatter-plot_HN-score](./2_scatter-plot_dataset/)
+## [2_scatter-plot_HN-score](./2_scatter-plot_HN-score/)
 
 1. scatter_plot_HNscore_human.ipynb 
 2. scatter_plot_HNscore_mouse.ipynb 
