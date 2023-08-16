@@ -10,7 +10,7 @@
 
 &nbsp;
 
-## [2_scatter-plot_HN-score](./2_scatter-plot_HN-score)
+## [2_scatter-plot_HNscore](./2_scatter-plot_HNscore)
 
 1. scatter_plot_HNscore_human.ipynb 
 2. scatter_plot_HNscore_mouse.ipynb 
@@ -26,6 +26,8 @@
 1. HNscore_HN5_samole_type_human.ipynb
 2. HNscore_HN5_samole_type_mouse.ipynb
 3. stacked_bar_HNscore_sample.ipynb
+
+&nbsp;
 
 &nbsp;
 
