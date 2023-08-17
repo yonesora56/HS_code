@@ -78,8 +78,8 @@ The figures created by these codes can be accessed from the figshare file as Fig
 &nbsp;
 
 - C_condition directory
-  - [HNscore_HN5_condition_human.ipynb](./3_stacked_bar_graph/C_condition/HNscore_HN5_condition_human.ipynb)
-  - [HNscore_HN5_condition_mouse.ipynb](./3_stacked_bar_graph/C_condition/HNscore_HN5_condition_mouse.ipynb)
+  - [HNscore_HN5_condition_human.ipynb](./3_stacked_bar_graph/C_condition/HNscore_HN5_condition_type_human.ipynb)
+  - [HNscore_HN5_condition_mouse.ipynb](./3_stacked_bar_graph/C_condition/HNscore_HN5_condition_type_mouse.ipynb)
   - [stacked_bar_HNscore_condition.ipynb](./3_stacked_bar_graph/C_condition/stacked_bar_HNscore_condition.ipynb) (for visualization)
 
 #### < Note2 >
