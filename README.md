@@ -4,7 +4,7 @@ The code groups in this repository were used in a meta-analysis study of gene ex
 
 All code is written in Jupyter Notebook format for easy reproduction.
 
-All figures written using these codes can be viewed and downloaded from the figshare collection file ([2](#2-yonezawa-s-meta-analysis-of-heat-stressed-gene-expresssion-data-in-human-and-mouse-figshare-collection-2023-url-httpsdoiorg106084m9figsharec6564487v2)).
+All figures drawn using these codes can be viewed and downloaded from the figshare collection file ([2](#2-yonezawa-s-meta-analysis-of-heat-stressed-gene-expresssion-data-in-human-and-mouse-figshare-collection-2023-url-httpsdoiorg106084m9figsharec6564487v2)).
 
 &nbsp;
 
@@ -84,7 +84,7 @@ The figures created by these codes can be accessed from the figshare file as Fig
 
 #### < Note2 >
 
-- Utilizing the human and mouse metadata in Table S1 and 2, we are creating a figure.
+- We are creating a figure by utilizing the human and mouse metadata in Table S1 and 2.
 
 - Table S1 (URL: <https://doi.org/10.6084/m9.figshare.22565212.v2>)
 - Table S2 (URL: <https://doi.org/10.6084/m9.figshare.22565311.v4>)
